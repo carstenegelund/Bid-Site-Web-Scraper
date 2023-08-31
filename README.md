@@ -1,4 +1,4 @@
-# kpmg-web-scraper
+# Bid Site Web Scraper
 
 [![](https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB&color=white)](#)
 [![](https://img.shields.io/badge/Pandas-white?style=flat&logo=Pandas&logoColor=150458&color=white)](#)
